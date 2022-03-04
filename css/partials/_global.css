@@ -47,3 +47,8 @@
     color: whitesmoke;
     box-shadow: var(--box-shadow);
 }
+/* para class */
+p.para {
+    color: var(--text-color);
+    font: normal 500 16px/25px var(--roboto);
+}

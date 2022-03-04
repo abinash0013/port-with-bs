@@ -55,3 +55,17 @@
     width: 90rem;
 }
 /* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: BANNER STYLE FINISHED  */
+
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: ABOUT STYLE START  */
+.about-area {
+    padding: 8rem 5rem;
+}
+.about-area .about-title h2 > span {
+    display: block;
+    font: normal bold 49px/60px var(--roboto);
+    letter-spacing: 15px;
+}
+.about-area .about-title .paragraph > p {
+    padding: 0.4rem 0;
+}
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: ABOUT STYLE FINISHED  */
