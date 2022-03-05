@@ -5,6 +5,9 @@
 .text-uppercase {
     text-transform: uppercase;
 }
+a {
+    text-decoration: none;
+}
 /* Button classes */
 .button {
     padding: 0.8rem 2.2rem;
@@ -51,4 +54,7 @@
 p.para {
     color: var(--text-color);
     font: normal 500 16px/25px var(--roboto);
+}
+.font-roboto {
+    font-family: var(--roboto);
 }
