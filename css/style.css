@@ -178,3 +178,38 @@
     filter: brightness(1.1) drop-shadow(1px 8px 30px #b1afaf);
 }
 /* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: PROJECT AREAS STYLE FINISHED  */
+
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: ABOUT CLIENT STYLE START  */
+.about-area .about-title p {
+    padding: 1rem 7rem;
+}
+.about-area .client {
+    background: #ffffff10;
+    box-shadow: var(--box-shadow);
+    margin: 3rem 0;
+}
+.about-area .client .client-img {
+    padding: 2rem;
+}
+.about-area .client .about-client {
+    padding: 2rem;
+}
+.about-area .client .about-client h4 {
+    font: normal 500 21px/20px var(--roboto);
+}
+.about-area .client .about-client p {
+    font-size: 14px;
+}
+.about-area .owl-carousel .owl-item {
+    display: flex;
+    justify-content: center;
+    padding: 0 1.5rem;
+}
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: var(--primary-color) !important;
+    width: 15px;
+    height: 12px;
+}
+
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: ABOUT CLIENT STYLE FINISHED  */
